@@ -1,6 +1,10 @@
 # .gitattributes for a python repo.
 # From alexkaratarakis
 
+.idea/* linguist-vendored
+build/* linguist-vendored
+venv/* linguist-vendored
+
 # Source files
 # ============
 *.pxd    text diff=python
