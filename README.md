@@ -4,4 +4,4 @@ This is a script to find WOTOs in Duke's Comp Sci 201. WOTOs are WOrking TOgethe
 
 This script was written to avoid the odious process of navigating to the WOTO every class. It automatically and intelligently pulls the WOTO link for the day from the class website and regularly checks the link to see if the Google Form is open yet. When the WOTO opens, the script immediately opens the WOTO in a new tab in the default browser. This saves valuable time on the WOTO and automates the process of navigation.
 
-The script is packaged into a standalone executable, which is located in the /build folder.
+The script is packaged into a standalone executable, which is located in the dist folder.
